@@ -1,9 +1,21 @@
+a {
+    /* font-size: 1.5em; */
+}
+
 nav {
     background-color: orange;
+    font-size: 20pt;
+    position: relative;
+    left: 50px;
 }
 
 h1 {
 background-color: red;
+font-size: 5vw;
+display: inline;
+/* display: none; */
+position: sticky;
+top: 20px;
 }
 
 p {
@@ -29,7 +41,7 @@ head img {
 
 #about {
     position: absolute;
-    bottom: 25px;
+    top: 50px;
     right: 50px;
     background-color: black;
 }
@@ -42,8 +54,8 @@ head img {
     top: 100px;
 }
 
-#container {
+/* #container {
     position: relative;
     height: 500px;
     border: 10px, line, black;
-}
+} */
