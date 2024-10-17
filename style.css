@@ -10,13 +10,6 @@ p {
     background-color: yellow;
 }
 
-.extra-large {
-    height: 300px;
-    width: 400px;
-    /* display: none; */
-    /* visibility: hidden; */
-}
-
 nav img {
     height: 50px;
     width: 50px;
@@ -25,6 +18,13 @@ nav img {
 head img {
     height: 100px;
     width: 100px;
+}
+
+.extra-large {
+    height: 500px;
+    width: 600px;
+    /* display: none; */
+    /* visibility: hidden; */
 }
 
 #about {
@@ -41,8 +41,6 @@ head img {
     position: sticky;
     top: 100px;
 }
-
-
 
 #container {
     position: relative;
