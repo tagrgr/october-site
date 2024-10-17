@@ -10,9 +10,9 @@ p {
     background-color: yellow;
 }
 
-body img {
-    height: 200px;
-    width: 200px;
+.extra-large {
+    height: 300px;
+    width: 400px;
     /* display: none; */
     /* visibility: hidden; */
 }
