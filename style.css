@@ -10,9 +10,9 @@ p {
     background-color: yellow;
 }
 
-img {
-    height: 150px;
-    width: 150px;
+body img {
+    height: 200px;
+    width: 200px;
     /* display: none; */
     /* visibility: hidden; */
 }
@@ -20,6 +20,11 @@ img {
 nav img {
     height: 50px;
     width: 50px;
+}
+
+head img {
+    height: 100px;
+    width: 100px;
 }
 
 #about {
