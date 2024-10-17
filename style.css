@@ -1,3 +1,27 @@
+nav {
+    background-color: orange;
+}
+
+h1 {
+background-color: red;
+}
+
+p {
+    background-color: yellow;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+nav img {
+    height: 50px;
+    width: 50px;
+}
+
 #about {
     position: absolute;
     bottom: 25px;
@@ -13,12 +37,7 @@
     top: 100px;
 }
 
-img {
-    height: 150px;
-    width: 150px;
-    /* display: none; */
-    /* visibility: hidden; */
-}
+
 
 #container {
     position: relative;
